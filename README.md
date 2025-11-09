@@ -9,4 +9,4 @@
 6. Run the program using the command 'java src/Main'
 
 ## YouTube Demo
-Here is the link to the video demonstrating how the project works: 
+Here is the link to the video demonstrating how the project works: https://youtu.be/sl45vzJOn7U
